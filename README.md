@@ -29,12 +29,13 @@ The model then predicts overall human stress level as:
 - To develop a machine learning system capable of estimating a person’s stress level based on daily lifestyle factors — supporting mental wellness awareness and early stress risk detection.
 
  Machine Learning Models Used
-- Multiple models were trained and compared:
+ 
  Model       	                  Accuracy	         Comments
  Random Forest Classifier	      80%	              Best performing model
  Gradient Boosting	             72%	              Stable but lower recall
  SVM                           	67%	              Underfitting issues
  Deep Learning (ANN)           	69%	              Good but not better than RF
+
 ➡️ Random Forest Classifier selected as final model
 
 Feature Engineering & Data Processing:
@@ -79,10 +80,8 @@ source myenv/bin/activate
 pip install -r requirements.txt
 # Run the app
 python app.py
-Visit app locally at:
-➡  http://127.0.0.1:5000
 
- Future Improvements:
+Future Improvements:
 Add SHAP Explainability inside the app UI
 Mental health advice based on prediction result
 Collect real-world user input to retrain model
