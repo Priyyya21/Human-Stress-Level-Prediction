@@ -70,11 +70,11 @@ Folder Structure
 # Clone the repository
 git clone https://github.com/Priyyya21/Human-Stress-Level-Prediction
 # Create virtual environment
-python -m venv venv
+python -m venv myenv
 # Windows
-venv\Scripts\activate
+myenv\Scripts\activate
 # Mac/Linux
-source venv/bin/activate
+source myenv/bin/activate
 # Install required dependencies
 pip install -r requirements.txt
 # Run the app
