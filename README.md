@@ -69,7 +69,6 @@ Folder Structure
  How to Run Locally
 # Clone the repository
 git clone https://github.com/Priyyya21/Human-Stress-Level-Prediction
-cd your-project-folder
 # Create virtual environment
 python -m venv venv
 # Windows
