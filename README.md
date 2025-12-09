@@ -92,3 +92,6 @@ Add user history dashboard with stress tracking
 Priya Sharma
 B.Tech – Computer Science & Engineering
 Machine Learning & Data Science Enthusiast
+
+ Email: priyaax21@gmail.com
+ LinkedIn: https://www.linkedin.com/in/priya-vashishth-1790512b2/
